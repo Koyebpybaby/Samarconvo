@@ -78,7 +78,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.imgur.com/LhxxOid.jpeg');
+    background-image: url('https://i.imgur.com/MdoZQHE.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -165,7 +165,7 @@ body{
     <p>&copy; this server deploy by samar inside </p>
     <p><a href="https://www.facebook.com/profile.php?id=1012510713&mibextid=LQQJ4d">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+92 320 3972669" class="whatsapp-link">
+      <a href="https://wa.me/+917739391132" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
@@ -181,4 +181,4 @@ def stop_sending():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-              
+        
