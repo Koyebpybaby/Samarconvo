@@ -78,7 +78,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.imgur.com/MdoZQHE.jpeg');
+    background-image: url('https://i.imgur.com/9O2iF5D.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -181,4 +181,4 @@ def stop_sending():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-        
+            
